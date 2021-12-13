@@ -7,4 +7,4 @@ Also assert that each of numViews is greater than 4000 <br>
 by using BDD Cucumber with RestAssured <br>
 
 If you want to run the feature <br>
-After downloading the project run "RunnerTest" class from "rinner" package <br>
+After downloading the project run "RunnerTest" class from "runner" package <br>
